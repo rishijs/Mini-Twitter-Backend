@@ -266,6 +266,3 @@ Expected result: **330 passing assertions**
 
 ---
 
-## License
-Academic use only (as per assignment specification)
-
